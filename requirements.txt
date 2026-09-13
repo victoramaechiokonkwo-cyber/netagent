@@ -1,0 +1,6 @@
+# requirements.txt
+numpy>=1.26
+scikit-learn>=1.4
+
+# Optional — only needed if you use agent/policy.py::LLMPolicy
+# openai>=1.30
