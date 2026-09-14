@@ -52,9 +52,6 @@ demo = gr.Interface(
     examples=[["F00042"], ["F00100"], ["F00500"]]
 )
 
-if __name__ == "__main__":
-    demo.launch()
-
 import os
 
 if __name__ == "__main__":
